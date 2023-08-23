@@ -1,4 +1,4 @@
-                                                                                                                                                                      #include<stdio.h>
+#include<stdio.h>
 #include<string.h>
 int E(),Edash(),T(),Tdash(),F();
 char *ip;
